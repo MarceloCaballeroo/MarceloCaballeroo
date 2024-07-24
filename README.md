@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola, soy Marcelo! 👋
 
-<!--
-**MarceloCaballeroo/MarceloCaballeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy estudiante de informática y analista de datos, apasionado por el modelismo, el anime y la literatura. Aquí encontrarás una muestra de mi trabajo en análisis de datos, desarrollo en PL/SQL y mucho más. 
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante universitario y actualmente trabajo como analista de datos en [EVINK]. Mi experiencia se centra en:
+
+- **Análisis de Datos**: Extracción y visualización de datos con herramientas Jupyter o Cognos.
+- **Desarrollo en PL/SQL**: Creación y desarrollo de base de datos en Oracle y MySQL.
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes**: Python, SQL, PL/SQL, JavaScript, Java, C#
+- **Herramientas**: Azure, AWS, Firebase, Oracle Cloud
+- **Bases de Datos**: Oracle, Mysql
+- **Otros**: GitHub, Excel, Cognos
+
+## 🌟 Proyectos Destacados
+
+### [Pagina de encriptacion y desincriptacion](enlace-a-tu-repositorio)
+ Aplicación web simple para encriptar y desencriptar texto utilizando un conjunto específico de reglas de sustitución de letras.
+
+## 📚 Experiencia y Educación
+
+- **Estudiante Universitario**: [DUOC UC]
+- **Analista de Datos**: [EVINK]
+
+## 📫 Contáctame
+
+- **LinkedIn**: [[Marcelo Caballero](https://www.linkedin.com/in/marcelo-caballero-olave/)]
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme.
+
+---
