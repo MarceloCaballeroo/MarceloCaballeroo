@@ -18,7 +18,7 @@ Soy estudiante universitario y actualmente trabajo como analista de datos en [EV
 
 ## 🌟 Proyectos Destacados
 
-### [Pagina de encriptacion y desincriptacion]([enlace-a-tu-repositorio](https://github.com/MarceloCaballeroo/desafio_encriptacion))
+### [Pagina de encriptacion y desincriptacion](https://github.com/MarceloCaballeroo/desafio_encriptacion)
  Aplicación web simple para encriptar y desencriptar texto utilizando un conjunto específico de reglas de sustitución de letras.
 
 ## 📚 Experiencia y Educación
