@@ -21,7 +21,7 @@ Soy estudiante universitario y actualmente trabajo como analista de datos en [EV
 ### [Pagina de encriptacion y desincriptacion](https://github.com/MarceloCaballeroo/desafio_encriptacion)
  Aplicación web simple para encriptar y desencriptar texto utilizando un conjunto específico de reglas de sustitución de letras.
 
-### [Capstone de Google - Caso practico empresa de Fitness]([https://github.com/MarceloCaballeroo/desafio_encriptacion](https://github.com/MarceloCaballeroo/Google_Proyecto/blob/main/fitbit-fitnesss-google.ipynb))
+### [Capstone de Google - Caso practico empresa de Fitness](https://github.com/MarceloCaballeroo/Google_Proyecto/blob/main/fitbit-fitnesss-google.ipynb)
  Análisis de datos de dispositivos FitBit usando datasets de Kaggle, enfocado en el seguimiento de actividad física y patrones de sueño.
 
 ## 📚 Experiencia y Educación
