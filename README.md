@@ -16,6 +16,6 @@
 
 ### Contacto
 
-[Portafolio](https://portafolio.marcelo-caballero.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Credly](https://www.credly.com/users/marcelo-ignacio-caballero-olave)
+[Portafolio](https://portafolio.marcelo-caballero.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Credly](https://www.credly.com/users/marcelo-ignacio-caballero-olave) · [Instagram](https://www.instagram.com/nobu.dev/)
 
 <sub>La imagen se regenera todos los días con GitHub Actions (`build.py`): el retrato se genera desde mi foto de perfil y las estadísticas se leen de la API de GitHub.</sub>
