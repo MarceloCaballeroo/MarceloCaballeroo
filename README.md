@@ -1,38 +1,21 @@
-# ¡Hola, soy Marcelo! 👋
+<a href="https://portafolio.marcelo-caballero.workers.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Marcelo Caballero Olave: estudiante de Ingeniería en Informática en Santiago de Chile. Práctica en Auditoría y Control Interno en LATAM Airlines. Foco en ciberseguridad, IA y cloud." src="light_mode.svg">
+  </picture>
+</a>
 
-Bienvenido a mi perfil de GitHub. Soy estudiante de informática y analista de datos, apasionado por el modelismo, el anime y la literatura. Aquí encontrarás una muestra de mi trabajo en análisis de datos, desarrollo en PL/SQL y mucho más. 
+**Estudiante de Ingeniería en Informática (Duoc UC), abierto a oportunidades en ciberseguridad, IA y cloud.** Práctica en Auditoría y Control Interno en LATAM Airlines. Antes, Endpoint Security Specialist L2 en IBM Chile, administrando EDR/XDR sobre más de 24.000 endpoints.
 
-## 🚀 Sobre mí
+### Proyectos destacados
 
-Soy estudiante universitario y actualmente trabajo como analista de datos en [EVINK]. Mi experiencia se centra en:
+- [**Podocare**](https://github.com/MarceloCaballeroo/Podocare): plataforma de gestión clínica para podología, con Row Level Security, segundo factor (TOTP) y bitácora de auditoría inmutable. Proyecto de título.
+- [**Accesibilidad con IA en AWS**](https://github.com/MarceloCaballeroo/botathon-2025-accesibilidad-aws): texto a voz con Polly, voz a texto con Transcribe y asistente con agentes de Bedrock.
+- [**ForoHub**](https://github.com/MarceloCaballeroo/forohub): API REST en Spring Boot con autenticación JWT y migraciones Flyway.
+- [**Anime Advisor**](https://github.com/MarceloCaballeroo/nerdearla-agente-aws): agente de IA con Strands Agents, hecho en Nerdearla Chile 2026.
 
-- **Análisis de Datos**: Extracción y visualización de datos con herramientas Jupyter o Cognos.
-- **Desarrollo en PL/SQL**: Creación y desarrollo de base de datos en Oracle y MySQL.
+### Contacto
 
-## 🛠️ Tecnologías y Herramientas
+[Portafolio](https://portafolio.marcelo-caballero.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Credly](https://www.credly.com/users/marcelo-ignacio-caballero-olave)
 
-- **Lenguajes**: Python, SQL, PL/SQL, JavaScript, Java, C#
-- **Herramientas**: Azure, AWS, Firebase, Oracle Cloud
-- **Bases de Datos**: Oracle, Mysql
-- **Otros**: GitHub, Excel, Cognos
-
-## 🌟 Proyectos Destacados
-
-### [Pagina de encriptacion y desincriptacion](https://github.com/MarceloCaballeroo/desafio_encriptacion)
- Aplicación web simple para encriptar y desencriptar texto utilizando un conjunto específico de reglas de sustitución de letras.
-
-### [Capstone de Google - Caso practico empresa de Fitness](https://github.com/MarceloCaballeroo/Google_Proyecto/blob/main/fitbit-fitnesss-google.ipynb)
- Análisis de datos de dispositivos FitBit usando datasets de Kaggle, enfocado en el seguimiento de actividad física y patrones de sueño.
-
-## 📚 Experiencia y Educación
-
-- **Estudiante Universitario**: [DUOC UC]
-- **Analista de Datos**: [EVINK]
-
-## 📫 Contáctame
-
-- **LinkedIn**: [[Marcelo Caballero](https://www.linkedin.com/in/marcelo-caballero-olave/)]
-
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme.
-
----
+<sub>La imagen se regenera todos los días con GitHub Actions (`build.py`): el retrato se genera desde mi foto de perfil y las estadísticas se leen de la API de GitHub.</sub>
