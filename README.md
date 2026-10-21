@@ -1,4 +1,4 @@
-<a href="https://portafolio.marcelo-caballero.workers.dev/">
+<a href="https://marcelocaballero.me/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
     <img alt="Marcelo Caballero Olave: estudiante de Ingeniería en Informática en Santiago de Chile. Práctica en Auditoría y Control Interno en LATAM Airlines. Foco en ciberseguridad, IA y cloud." src="light_mode.svg">
@@ -16,6 +16,6 @@
 
 ### Contacto
 
-[Portafolio](https://portafolio.marcelo-caballero.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Credly](https://www.credly.com/users/marcelo-ignacio-caballero-olave) · [Instagram](https://www.instagram.com/nobu.dev/)
+[Portafolio](https://marcelocaballero.me/) · [LinkedIn](https://www.linkedin.com/in/marcelo-caballero-olave) · [Credly](https://www.credly.com/users/marcelo-ignacio-caballero-olave) · [Instagram](https://www.instagram.com/nobu.dev/)
 
 <sub>La imagen se regenera todos los días con GitHub Actions (`build.py`): el retrato se genera desde mi foto de perfil y las estadísticas se leen de la API de GitHub.</sub>

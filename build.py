@@ -38,7 +38,7 @@ PROFILE = [
     ("Certificaciones", "22 verificadas en Credly"),
     None,
     ("SECTION", "Contacto"),
-    ("Portafolio", "portafolio.marcelo-caballero.workers.dev"),
+    ("Portafolio", "marcelocaballero.me"),
     ("LinkedIn", "marcelo-caballero-olave"),
     ("Credly", "marcelo-ignacio-caballero-olave"),
     None,
