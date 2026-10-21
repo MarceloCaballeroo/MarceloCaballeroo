@@ -87,7 +87,7 @@ def stats():
     cc = u["contributionsCollection"]
     return {
         "repos": str(u["repositories"]["totalCount"]),
-        "stars": str(sum(n["stargazers"]["totalCount"] for n in u["repositories"]["nodes"])),
+        "stars": str(sum(n["stargazers"]["totalCount"] for n in u["repositories"]["nodes"] if n)),
         "commits": str(cc["totalCommitContributions"] + cc["restrictedContributionsCount"]) + " (último año)",
         "followers": str(u["followers"]["totalCount"]),
     }
