@@ -60,12 +60,27 @@ query($login: String!) {
     followers { totalCount }
     repositories(ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false, first: 100) {
       totalCount
-      nodes { stargazers { totalCount } }
     }
     contributionsCollection { totalCommitContributions restrictedContributionsCount }
   }
 }
 """
+
+
+def stars(token):
+    """Suma de estrellas de los repositorios publicos propios (REST: el token de Actions solo ve este repo en GraphQL)."""
+    total, page = 0, 1
+    while True:
+        req = urllib.request.Request(
+            "https://api.github.com/users/%s/repos?type=owner&per_page=100&page=%d" % (USER, page),
+            headers={"Authorization": "Bearer " + token, "User-Agent": "profile-readme"},
+        )
+        with urllib.request.urlopen(req, timeout=30) as r:
+            repos = json.load(r)
+        total += sum(x["stargazers_count"] for x in repos if not x["fork"])
+        if len(repos) < 100:
+            return total
+        page += 1
 
 
 def stats():
@@ -87,7 +102,7 @@ def stats():
     cc = u["contributionsCollection"]
     return {
         "repos": str(u["repositories"]["totalCount"]),
-        "stars": str(sum(n["stargazers"]["totalCount"] for n in u["repositories"]["nodes"] if n)),
+        "stars": str(stars(token)),
         "commits": str(cc["totalCommitContributions"] + cc["restrictedContributionsCount"]) + " (último año)",
         "followers": str(u["followers"]["totalCount"]),
     }
